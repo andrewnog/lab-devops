@@ -1,2 +1,10 @@
 # Key pairs
 *.pem
+
+# Arquivos terraform
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+.terraform.tfstate.lock.info
+crash.log
