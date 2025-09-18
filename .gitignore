@@ -4,6 +4,7 @@
 # Arquivos terraform
 .terraform/
 .terraform.lock.hcl
+*.hcl
 *.tfstate
 *.tfstate.backup
 .terraform.tfstate.lock.info
